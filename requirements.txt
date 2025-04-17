@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard] # For running the server
+sentence-transformers
+langchain
+langchain-google-genai # Updated package for Gemini
+faiss-cpu # CPU version of FAISS (embeddings still run on GPU)
+# OR faiss-gpu if you want GPU accelerated search (can be harder to install)
+python-dotenv
+pypdf # If you have PDF files in ./data, add other loaders if needed (e.g., unstructured)
+
+# IMPORTANT FOR GPU: Install PyTorch with CUDA support
+# Go to: https://pytorch.org/get-started/locally/
+# Select stable, your OS, pip, Python, and the CUDA version matching your driver
+# Example command (CHECK THE PYTORCH SITE FOR YOUR SPECIFIC COMMAND):
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+# Add the specific torch install command recommended by PyTorch to your setup steps,
+# often it's better to run it manually BEFORE pip install -r requirements.txt

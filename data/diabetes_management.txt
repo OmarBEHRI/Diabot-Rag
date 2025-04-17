@@ -1,0 +1,103 @@
+# Diabetes Management
+
+Managing diabetes means maintaining healthy blood sugar levels. This requires a combination of medication, diet, exercise, and regular monitoring.
+
+## Blood Sugar Monitoring
+
+Regular blood sugar monitoring is essential for diabetes management. Your healthcare provider will recommend how often you should check your blood sugar based on your specific situation.
+
+### Target Blood Sugar Levels
+
+For most adults with diabetes, target blood sugar levels are:
+- Before meals: 80-130 mg/dL (4.4-7.2 mmol/L)
+- 1-2 hours after meals: Less than 180 mg/dL (10.0 mmol/L)
+
+Your personal targets may differ based on your age, other health conditions, and how long you've had diabetes.
+
+### A1C Test
+
+The A1C test measures your average blood sugar level over the past 2-3 months. For most adults with diabetes, the A1C goal is below 7%. Your healthcare provider might set a different goal depending on your individual circumstances.
+
+## Medication and Insulin
+
+Depending on the type of diabetes you have, you may need to take medication or insulin.
+
+### Type 1 Diabetes
+
+If you have type 1 diabetes, you need insulin therapy to survive. Options include:
+- Rapid-acting insulin
+- Short-acting insulin
+- Intermediate-acting insulin
+- Long-acting insulin
+
+Insulin can be delivered via injections or an insulin pump.
+
+### Type 2 Diabetes
+
+If you have type 2 diabetes, you may need one or more diabetes medicines along with healthy eating and physical activity. Common medications include:
+- Metformin (reduces glucose production in the liver)
+- Sulfonylureas (help your body secrete more insulin)
+- Meglitinides (stimulate the pancreas to secrete more insulin)
+- Thiazolidinediones (help insulin work better)
+- DPP-4 inhibitors (improve A1C without causing weight gain)
+- GLP-1 receptor agonists (slow digestion and help lower blood glucose levels)
+- SGLT2 inhibitors (prevent the kidneys from reabsorbing sugar into the blood)
+- Insulin therapy (if other medications aren't enough)
+
+## Healthy Eating
+
+A healthy eating plan is central to managing diabetes. Focus on:
+
+### Carbohydrate Counting
+
+Carbohydrates have the biggest impact on blood sugar. Keeping track of how many carbs you eat and setting a limit for each meal can help keep your blood sugar levels in your target range.
+
+### The Plate Method
+
+A simple way to plan meals:
+- Fill half your plate with non-starchy vegetables
+- Fill a quarter with protein
+- Fill a quarter with carbohydrates (preferably whole grains or starchy vegetables)
+- Add a small amount of healthy fat and a piece of fruit or dairy
+
+### Foods to Choose
+
+- Healthy carbohydrates: Fruits, vegetables, whole grains, legumes, low-fat dairy
+- Fiber-rich foods: Vegetables, fruits, nuts, legumes, whole grains
+- Heart-healthy fish: Salmon, mackerel, tuna, sardines
+- Good fats: Avocados, nuts, olive oil
+
+### Foods to Limit
+
+- Saturated and trans fats: High-fat dairy, fried foods, beef, processed snacks
+- Sodium: Processed foods, canned soups, frozen meals
+- Added sugars: Sodas, candy, desserts, sweetened cereals
+
+## Physical Activity
+
+Regular physical activity is important for everyone, but especially if you have diabetes. Exercise helps your body use insulin better and can lower your blood sugar levels.
+
+Aim for at least 150 minutes of moderate-intensity aerobic activity per week, spread over at least 3 days with no more than 2 consecutive days without activity. Also include 2-3 sessions of resistance training per week.
+
+Always check with your healthcare provider before starting a new exercise program.
+
+## Managing Stress
+
+Stress can raise your blood sugar levels. Find healthy ways to cope with stress, such as:
+- Deep breathing
+- Gardening
+- Taking a walk
+- Meditating
+- Listening to music
+- Working on a hobby
+
+## Regular Healthcare
+
+Regular check-ups are essential for managing diabetes and preventing complications. Make sure to:
+- See your primary care provider at least twice a year
+- Get an annual eye exam
+- Get an annual foot exam
+- Get regular dental check-ups
+- Monitor your blood pressure and cholesterol
+
+Remember, diabetes management is a team effort involving you, your healthcare providers, and your support network. With proper management, people with diabetes can lead long, healthy lives.
