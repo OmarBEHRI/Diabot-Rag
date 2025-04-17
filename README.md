@@ -30,7 +30,7 @@ DiaBot combines several cool pieces of tech:
     - The relevant text chunks it just retrieved.
     - Your original question.
     - Instructions telling it to answer based *only* on the provided context if possible.
-8. **Generation (The Grand Finale - Gemini `1.5-flash-latest`):** This augmented prompt is sent to the Google Gemini API (`gemini-1.5-flash-latest` model). Gemini reads the context and your question and generates a helpful, context-aware answer.
+8. **Generation (The Grand Finale - Gemini `2.0-flash`):** This augmented prompt is sent to the Google Gemini API (`gemini-2.0-flash` model). Gemini reads the context and your question and generates a helpful, context-aware answer.
 9. **Display:** The answer pops up in your chat window!
 
 ## Tech Stack 🥞
@@ -39,7 +39,7 @@ DiaBot combines several cool pieces of tech:
 - **Web Framework:** FastAPI
 - **Web Server:** Uvicorn
 - **AI Orchestration:** LangChain
-- **LLM:** Google Gemini API (`gemini-1.5-flash-latest`)
+- **LLM:** Google Gemini API (`gemini-2.0-flash`)
 - **Local Embeddings:** Sentence Transformers (`all-MiniLM-L6-v2`) via `langchain_community.embeddings.HuggingFaceEmbeddings`
 - **Machine Learning Lib:** PyTorch (for running embeddings locally, especially on GPU)
 - **Vector Store:** FAISS (CPU version `faiss-cpu`, but embeddings can still use GPU)
